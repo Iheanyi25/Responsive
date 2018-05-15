@@ -1,0 +1,102 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-color: #f0f0f0;
+}
+
+header {
+    background-color: #000;
+    height: 150px;
+    width: auto;
+    padding: 5px;
+}
+footer {
+    background-color: black;
+    height: 50px;
+    width: auto;
+}
+ul.list li {
+    display: inline-block;
+}
+
+.list li {
+    color: white;
+    margin-left: 30px;
+    position: relative;
+    top: 110px;
+}
+
+.list {
+    margin: auto;
+    margin-left: 150px;
+}
+
+.blue {
+    width: auto;
+    height: 50px;
+    background-color: blue;
+    padding: 10px;
+}
+
+#blue1 {
+    margin: auto;
+    width: 100%;
+    color: white;
+}
+#blue2 {
+	color: #707070;
+}
+.gray {
+    width: auto;
+    height: 50px;
+    background-color: #e0e0e0;
+    padding: 5px;
+}
+
+
+/*style the container  */
+
+.container {
+    margin: auto;
+    width: 900px;
+    background-color: whitesmoke;
+    height: auto;
+}
+
+
+/*style the feature  N/B remember to change color*/
+
+.top {
+    background-color: white;
+    height: 50px;
+    margin-bottom: 15px;
+}
+
+ul.links li {
+    display: inline-block;
+}
+
+.links li {
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+
+/*style the col  */
+
+.col {
+    border: 2px solid black;
+    width: 100%;
+    height: 200px;
+    margin-top: 20px;
+}
+
+.row {
+    border: 1px solid #b0b0b0;
+    width: 31.5%;
+    height: 200px;
+    display: inline-block;
+    margin-left: 10px;
+}
+
+
